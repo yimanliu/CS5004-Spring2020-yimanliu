@@ -1,0 +1,29 @@
+Good job on this Fractions Lab! Here is some feedback on things to keep in mind.
+
+1. Great use of Javadoc comments.
+
+2. In your toDouble method, complete the division first then cast into the double to eliminate additional work/processing time. 
+
+3. Great job implementing the simplification before creating the string. You may want to consider adding the simplification to it's 
+own method so it can be re-used in other areas.
+
+4. Comparing doubles in Java can be tricky. Because it stores so many places out, sometimes the ending of it can hold garbage. You can 
+use an assertEquals including a delta (percentage allowed to be off) or you can use cross multiplication to determine if they are equal.
+
+5. In your equals method, you have already cast other into a Fraction. You would not need to do it again. You could instead use 
+fraction.toDouble()
+
+6. In your reciprocal method make sure you test the numerator for negative values. If you put a negative in your denominator your 
+program will crash because a Fraction object cannot be created with a denominator less than 0.
+
+7. Make sure you test your constructor method to ensure it throws the exception if an invalid denominator is provided.
+
+8. Was your simplication method not working? Your toString method had the simplification but the test did not use that.
+
+9. Make sure you test for all cases in each method. For example, your testEquals only tested for true. You need to also test for false.
+
+10. In your reciprocal test, make sure you test to ensure your method is throwing the exception appropriately.
+
+
+
+Feedback provided by: Chandra Davis davis.chan@husky.neu.edu
