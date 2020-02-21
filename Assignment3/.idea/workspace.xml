@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70a0f75a-2563-4668-8e3d-984afee63276" name="Default Changelist" comment="" />
+    <list default="true" id="70a0f75a-2563-4668-8e3d-984afee63276" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment3/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment3/RectangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/Lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/src/FractionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/FractionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1X357sxk73FjCEktBOMsZQI2Djb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rectangle">
+  <component name="RunManager" selected="JUnit.RectangleTest">
     <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rectangle" />
       <module name="Assignment3" />
@@ -67,11 +80,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest.overlap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RectangleTest.testException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RectangleTest" />
-      <option name="METHOD_NAME" value="overlap" />
+      <option name="METHOD_NAME" value="testException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rectangle" />
         <item itemvalue="JUnit.RectangleTest" />
+        <item itemvalue="JUnit.RectangleTest.testException" />
         <item itemvalue="JUnit.RectangleTest.intersect" />
+        <item itemvalue="Application.Rectangle" />
         <item itemvalue="JUnit.RectangleTest.testToString" />
-        <item itemvalue="JUnit.RectangleTest.overlap" />
       </list>
     </recent_temporary>
   </component>
@@ -128,30 +141,30 @@
     </state>
     <state x="0" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1580783860822" />
     <state x="0" y="233" key="#com.intellij.ide.util.MemberChooser/0.23.1440.794@0.23.1440.794" timestamp="1580265419996" />
-    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1580786234993">
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1580956523646">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580786234993" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580956523646" />
     <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1580273070496" />
-    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1580786234992">
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1580956523646">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580786234992" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580956523646" />
     <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1580273070495" />
-    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1580786234991">
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1580956523645">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580786234991" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580956523645" />
     <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1580273070495" />
-    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1580786234992">
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1580956523646">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580786234992" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580956523646" />
     <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1580273070496" />
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580782640178">
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1580948720020">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580782640178" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580948720020" />
     <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580273230392">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

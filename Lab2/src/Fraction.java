@@ -1,10 +1,15 @@
 import java.util.Objects;
 
+/**
+ * A class Fraction represents a fraction
+ */
 public class Fraction {
     private int numerator;
     private int denominator;
 
     /**
+     * Construct a Fraction object
+     *
      * @param numerator an integer as numerator
      * @param denominator an integer as denominator
      * @throws IllegalArgumentException
@@ -18,6 +23,8 @@ public class Fraction {
     }
 
     /**
+     * Convert the Fraction to a scientific value (decimal number)
+     *
      * @return the scientific value (decimal) of the fraction
      */
     public double toDouble() {
@@ -25,6 +32,8 @@ public class Fraction {
     }
 
     /**
+     * Get the String representation of this Fraction.
+     *
      * @return a String representation of this fraction
      */
     @Override
@@ -42,6 +51,8 @@ public class Fraction {
     }
 
     /**
+     * Check if two Fractions are equal
+     *
      * @param other another Fraction object
      * @return if two Fractions' values are equal
      */
@@ -53,6 +64,8 @@ public class Fraction {
     }
 
     /**
+     * Find the reciprocal of this Fraction
+     *
      * @return the reciprocal of this fraction
      * @throws IllegalArgumentException
      */
@@ -67,6 +80,8 @@ public class Fraction {
     }
 
     /**
+     * Add two fractions
+     *
      * @param other another Fraction object
      * @return the result as a fraction object
      */
@@ -77,6 +92,11 @@ public class Fraction {
     }
 
     /**
+     * Compare two Fraction
+     *  if they are equal, return 0
+     *  if this > other, return 1
+     *  if this < other, return -1
+     *
      * @param other another Fraction object
      * @return a negative number if this < other, a positive number if this > other, otherwise return 0
      */
