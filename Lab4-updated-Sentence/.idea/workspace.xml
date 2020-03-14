@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9320b730-1537-4b92-ad5b-f2d355ca1103" name="Default Changelist" comment="" />
+    <list default="true" id="9320b730-1537-4b92-ad5b-f2d355ca1103" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/Lab4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/EmptyNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/PunctuationNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/Sentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/WordNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/mySentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/Lab4,5,6 - Sentence.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/out/production/Lab4,5,6 - Sentence/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/out/production/Lab4,5,6 - Sentence/Sentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/out/production/Lab4,5,6 - Sentence/mySentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/out/production/Lab4,5,6 - Sentence/mySentenceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/src/Sentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/src/mySentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4:5:6-Sentence/src/mySentenceTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YHcgqVlIZoRCqdM0lVbyyRajk6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +60,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
