@@ -1,0 +1,25 @@
+Point Breakdown		Yiman Liu
+1	JavaDoc Comments	1
+1	Public vs private	1
+1	Constructor - exception throw (negative power)	1
+1	Constructor - exception throw (0 coefficient)	1
+1	addTerm - exception throw (negative power)	1
+1	toString - can be compared	1
+1	toString - format 	0
+2	Testing - Constructor	2
+2	Testing - addTerm	2
+2	Testing - removeTerm	2
+2	Testing - getDegree	2
+2	Testing - getCoefficient	2
+2	Testing - evaluate	2
+2	Testing - add	2
+2	Formatting/ Structure	2
+11	Correctness - Constructor	11
+11	Correctness - addTerm	11
+11	Correctness - removeTerm	11
+11	Correctness - getDegree	8
+11	Correctness - getCoefficient	11
+11	Correctness - evaluate	11
+11	Correctness - add	11
+		
+100	Total	96
