@@ -83,15 +83,6 @@ public class RectangleTest {
         Rec.intersect(RecNoOverlap);
     }
 
-    @Test(expected = NoSuchElementException.class)
-    public void testException() {
-        Rectangle a = new Rectangle(1,1,2,2);
-        Rectangle b = new Rectangle(5,5,1,1);
-        a.intersect(b);
-
-        Rec.intersect(RecNoOverlap);
-    }
-
     @Test
     public void union() {
         Rectangle r = Rec.union(r1);
