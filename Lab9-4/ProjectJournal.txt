@@ -1,0 +1,27 @@
+CS5004 Final Project - Yiman Liu
+
+Project: 
+Implement a Text Editor with spelling checking, auto-completion and spelling suggestions in Java. Add the ability to measure text readability and performed Markov chain model to implement intelligent text generation.
+
+Who is the user?
+People who need to edit texts
+
+Interface needed:
+JavaFX API
+
+Key data structures:
+Trie, LinkedList
+
+Algorithms:
+Markov chain model
+
+Design pattern:
+MVC - Model,View,Controller
+
+CS topic I want to learn:
+How to integrate front-end and back-end program?
+How to generate random text using Markov chain model? 
+
+Resources:
+https://www.guru99.com/mvc-tutorial.html
+https://www.coursera.org/learn/data-structures-optimizing-performance
