@@ -1,0 +1,14 @@
+Application that use MVC is not a good idea:
+
+Cons of MVC: 
+1. MVC framework can be complex since we need to divides the code into three part precisely. 
+
+2. Developers need to maintain the consistency of these three parts in order to make the program work. 
+
+[Source: https://medium.com/@socraticsol/why-mvc-architecture-e833e28e0c76]
+
+So a project with a small team working in the same coding language may not need to use this architecture.
+
+A two-tier or three-tier architecture can be a better framework for application like Chat Application, PDF generator.
+
+[Source: https://stackoverflow.com/questions/1531907/when-not-to-use-mvc-in-a-web-application]

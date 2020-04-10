@@ -1,0 +1,28 @@
+CS5004 Final project updates: 04/09/20
+
+This week I learned how to apply Markov Chain Model to generate intelligent text.
+
+The "text generator" is implemented in MarkovTextGeneratorLoL class. 
+The basic idea is to train the input text, and I used LinkedList to store the input text.
+In each Node of the LinkedList, it has Word, wordList (all next words after this word) filed. 
+So here is how I store the text:
+
+Assume I have a text: "hi there hi Yiman here it is"
+then, here is what the LinkedList looks like:
+
+hi -> there, Yiman
+there -> hi
+Yiman -> here
+here -> it
+it -> is
+is -> hi
+
+Thus, when I want to generate random text based on the text I have trained,
+I could find the next word if I got a random start word (by getting the neighbor of the word)
+
+
+Also, I kind of found how to decompose the program into MVC model. 
+"Model" part is what I will mainly implement, it includes document.package, spelling.package and textgen.package
+"Controller" will be MarkovController, EditDistanceController, and TextProController 
+since different functionality may need different controller.
+"View" part has actually been provided, it includes AutoSpellingTextArea.
